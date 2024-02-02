@@ -2,3 +2,6 @@ londres
 tóquio
 paris
 madrid
+moscou
+brasilia
+buenos aires

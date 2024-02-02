@@ -2,3 +2,6 @@ pizza
 macarrão
 feijão 
 pastel
+arroz
+farofa
+maionese
